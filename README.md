@@ -18,6 +18,7 @@ HOT KEYS / KEYBINDS (Menu, Aim, ESP.)
 ```
 ### IMPORTANT
 This cheat isn't signed by Windows. Windows WILL say file is dangerous, but it does this for all game cheats.
+Only Download Launchers from the Releases Tab. The ones there are Up-To-Date.
 
 ### STEPS
 ```sh-session
