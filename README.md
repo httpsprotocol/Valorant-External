@@ -5,13 +5,13 @@
  AIMBOT (Undetected)
  ESP (Undetected)
  OTHER (Undetected)
- UPDATED = 5/29/23
+ UPDATED = 6/2/23
  -----------------
 ```
 ```sh-session
 Characteristics
 ---------------
-AIMBOT (Blatant or smooth aim.)
+AIMBOT (Rage [Blatant] or smooth aim.)
 ESP (Enemy Health, Hitbox, Name, Allies, Skeleton.)
 Visuals (Fog Of War, Distance, Weapons, Colors.)
 HOT KEYS / KEYBINDS (Menu, Aim, ESP.)
