@@ -1,11 +1,11 @@
- ### WORKS ON - PATCH 6.08 / 6.07 
+ ### WORKS ON - PATCH 7.01
  ```sh-session
  Status
  ------
  AIMBOT (Undetected)
  ESP (Undetected)
  OTHER (Undetected)
- UPDATED = 7/18/23
+ UPDATED = 7/20/23
  -----------------
 ```
 ```sh-session
