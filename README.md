@@ -17,7 +17,7 @@ Visuals (Fog Of War, Distance, Weapons, Colors.)
 HOT KEYS / KEYBINDS (Menu, Aim, ESP.)
 ```
 ### IMPORTANT
-This cheat isn't signed by Windows. Windows WILL say file is dangerous, but it does this for all game cheats.
+This cheat isn't signed by Windows. Windows MIGHT say file is dangerous, but it does this for all game cheats. (50/50 Chance Now)
 ```sh-session
 Only Download Launchers from the Releases Tab. The ones there are Up-To-Date.
 ```
