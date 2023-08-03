@@ -29,7 +29,7 @@ Only Download Launchers from the Releases Tab. The ones there are Up-To-Date.
 [2] Download and Unzip the zip folder into any directory.
 [3] Download ValoExt.exe from the releases tab. Your web browser may block the download. To bypass, open the full downloads page and select 'keep anyway'.
 [4] Run ValoExt.exe BEFORE Opening Valorant
-[5] Launch Valorant, Load into your desired game-mode, then press Ins to open the GUI.
+[5] Launch Valorant, Load into your desired game-mode, then press Ins (Inspect Key) to open the GUI.
 ```
 ### Have Fun! But one more thing...
 Although this cheat IS safe, I recommend using an ALT Account or your own Driver. I have not been banned yet, but I am not responsible for you.
