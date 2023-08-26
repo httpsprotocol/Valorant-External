@@ -1,4 +1,4 @@
- ### WORKS ON - PATCH 7.01
+ ### WORKS ON - PATCH 7.04
  ```sh-session
  Status
  ------
