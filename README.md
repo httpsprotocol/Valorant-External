@@ -5,7 +5,7 @@
  AIMBOT (Undetected)
  ESP (Undetected)
  OTHER (Undetected)
- UPDATED = 9/4/23
+ UPDATED = 9/12/23
  -----------------
 ```
 ```sh-session
